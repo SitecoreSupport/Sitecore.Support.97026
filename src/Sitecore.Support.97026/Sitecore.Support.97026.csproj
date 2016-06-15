@@ -52,8 +52,8 @@
     <Compile Include="Trace.cs" />
   </ItemGroup>
   <ItemGroup>
-    <None Include="App_Config\Include\Sitecore.Support.97026.config" />
-    <None Include="App_Config\Include\Sitecore.Support.97026.MainDataProvider.config.example" />
+    <None Include="App_Config\Include\Sitecore.Support.97026\Sitecore.Support.97026.config" />
+    <None Include="App_Config\Include\Sitecore.Support.97026\Sitecore.Support.97026.MainDataProvider.config.example" />
     <None Include="nuget.config" />
     <None Include="packages.config" />
   </ItemGroup>
