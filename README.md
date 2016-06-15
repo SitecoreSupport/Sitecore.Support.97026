@@ -11,7 +11,7 @@ Database geo-replication feature requires secondary database to be read-only. Si
 To apply the patch on CD instances working with read-only web database follow these steps:  
 1. Place the `Sitecore.Support.97026.dll` assembly into the `\bin` folder.  
 2. Place the `Sitecore.Support.97026.config` file into the `\App_Config\Include` folder.  
-3. *[Optional]* Use `Sitecore.Support.97026.MainDataProvider.config.examle` file to persist properties to the file system for all Sitecore databases.  
+3. *[Optional]* Use `Sitecore.Support.97026.MainDataProvider.config.example` file to persist properties to the file system for all Sitecore databases.  
 
 > Note: this solution does not support proxy items. The configuration of the patch disables proxy items for `web` database.
 
