@@ -20,3 +20,11 @@ The patch includes these files:
 1. `\bin\Sitecore.Support.97026.dll`  
 2. `\App_Config\Include\Sitecore.Support.97026.config`  
 3. `\App_Config\Include\Sitecore.Support.97026.MainDataProvider.config.example`
+
+## License
+
+This patch is licensed under the [Sitecore Corporation A/S License](LICENSE).
+
+## Download
+
+Downloads are available via [GitHub Releases](https://github.com/SitecoreSupport/Sitecore.Support.97026/releases).
