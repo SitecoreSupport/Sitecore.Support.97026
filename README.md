@@ -1,3 +1,4 @@
+
 # Sitecore.Support.97026
 Experimental support for Azure database geo-replication feature on Sitecore CD instances.
 ## Credits
@@ -28,3 +29,5 @@ This patch is licensed under the [Sitecore Corporation A/S License](LICENSE).
 ## Download
 
 Downloads are available via [GitHub Releases](https://github.com/SitecoreSupport/Sitecore.Support.97026/releases).
+
+[![Total downloads](https://img.shields.io/github/downloads/SitecoreSupport/Sitecore.Support.97026/total.svg)](https://github.com/SitecoreSupport/Sitecore.Support.97026/releases)
